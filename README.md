@@ -1,4 +1,6 @@
 Railway Data Analysis Project 🚆📊
+
+
 Overview
 This project provides a comprehensive analysis of railway data, focusing on various metrics that impact the performance, revenue, and customer experience. The dataset includes details on ticket types, purchase types, journey statuses, refunds, delays, cancellations, and revenue generation. This analysis is crucial for understanding trends, improving operational efficiency, and making data-driven decisions in the railway industry.
 
